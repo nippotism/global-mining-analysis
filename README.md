@@ -1,5 +1,5 @@
-# Global-Mining-&-Mineral-Production-Analytics-Power-BI-Project
-![Dashboard](Heart%20Disease%20Analysis%20Dashboard.PNG)
+![Worldwide Overview](https://github.com/user-attachments/assets/3b84b81c-d65e-4ccf-808d-4aef5071d093)
+
 
 ---
 
@@ -25,7 +25,7 @@ This **Power BI Report** provides an end-to-end analysis of **Global Mining** an
 ## Key Insights
 
 ### Global Coal Production (2000-2021)
-![Male](Heart%20Disease%20Male%20Insights.PNG)
+![Coal](https://github.com/user-attachments/assets/67c03efb-2ca5-415a-836c-9971c297f5f2)
 - Market Leaders: USA (19bn tonnes), China (16bn tonnes), India (15bn tonnes), Australia (10bn tonnes).
 - Production Peak: Reached 8bn tonnes in 2015, followed by 50% decline post-2020.
 - Processing Balance: Perfect 50-50 split between raw coal and clean coal (27M tonnes each).
@@ -34,7 +34,8 @@ This **Power BI Report** provides an end-to-end analysis of **Global Mining** an
 - Material Diversity: F.coal dominates, with F.stc (sub-bituminous), F.lig (lignite), and F.abc as secondary types.
 
 ### Global Mineral Production (2000-2021)
-![Female](Heart%20Disease%20Female%20Insights.PNG)
+![Mineral](https://github.com/user-attachments/assets/36baafb9-b720-427c-8e98-960c02e7fdfc)
+
 - Geographic Dominance: Australia (24bn tonnes), Brazil (16bn tonnes), Chile (12bn tonnes), USA (10bn tonnes).
 - Processing Gap: Only 43% of mined ore is processed, with just 13% reaching concentrate stage.
 - Value Chain Opportunity: Significant raw material export suggests processing expansion potential.
@@ -53,7 +54,7 @@ This **Power BI Report** provides an end-to-end analysis of **Global Mining** an
 | **Data Source** | Open Database on Global Coal and Metal Mine Production |
 | **Time Period** | 2000-2021 ( 21 Years Historical analysis)
 | **Purpose** | Market intelligence, investment analysis, operational benchmarking, supply chain optimization |
-| **File** | `Heart Disease Report.pbix` (can be downloaded for interactive exploration) | 
+| **File** | `Mining Analysis.pbix` (can be downloaded for interactive exploration) | 
 
 ---
 
@@ -68,8 +69,8 @@ This **Power BI Report** provides an end-to-end analysis of **Global Mining** an
 
 ## Key Performance Indicators (KPIs)
 
-- Total Facilities Analyzed: 117+
-- Total Area Coverage: 9,590+ km²
+- Total Facilities Analyzed: 1000+
+- Total Area Coverage: 200.000+ km²
 - Total Coal Production (2000-2021): 54M tonnes
 - Total Mineral Production (2000-2021): 76M tonnes
 - Global Production Peak: 8bn tonnes (2015)
