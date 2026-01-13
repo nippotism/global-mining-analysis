@@ -69,8 +69,8 @@ This **Power BI Report** provides an end-to-end analysis of **Global Mining** an
 
 ## Key Performance Indicators (KPIs)
 
-- Total Facilities Analyzed: 117+
-- Total Area Coverage: 9,590+ km²
+- Total Facilities Analyzed: 1000+
+- Total Area Coverage: 200.000+ km²
 - Total Coal Production (2000-2021): 54M tonnes
 - Total Mineral Production (2000-2021): 76M tonnes
 - Global Production Peak: 8bn tonnes (2015)
