@@ -54,7 +54,7 @@ This **Power BI Report** provides an end-to-end analysis of **Global Mining** an
 | **Data Source** | Open Database on Global Coal and Metal Mine Production |
 | **Time Period** | 2000-2021 ( 21 Years Historical analysis)
 | **Purpose** | Market intelligence, investment analysis, operational benchmarking, supply chain optimization |
-| **File** | `Heart Disease Report.pbix` (can be downloaded for interactive exploration) | 
+| **File** | `Mining Analysis.pbix` (can be downloaded for interactive exploration) | 
 
 ---
 
